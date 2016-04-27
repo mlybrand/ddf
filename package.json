@@ -1,0 +1,20 @@
+{
+  "name": "ddf",
+  "version": "1.0.0",
+  "description": "Developer-Driven Fitness",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlybrand/ddf.git"
+  },
+  "author": "Mark Lybrand [ mlybrand@gmail.com ]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlybrand/ddf/issues"
+  },
+  "homepage": "https://github.com/mlybrand/ddf#readme"
+}
